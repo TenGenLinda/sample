@@ -1,0 +1,3 @@
+[submodule "rtd"]
+	path = rtd
+	url = https://github.com/TenGenLinda/rtd.git
